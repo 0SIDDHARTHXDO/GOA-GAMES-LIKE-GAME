@@ -1,0 +1,26 @@
+{
+  "name": "wingo-casino",
+  "version": "1.0.0",
+  "description": "A Wingo / Color Prediction / Lottery-style gaming platform",
+  "main": "server.php",
+  "scripts": {
+    "start": "php -S localhost:8000",
+    "dev": "php -S localhost:8000",
+    "setup-db": "echo 'Please run the SQL schema manually in your MySQL database'"
+  },
+  "keywords": [
+    "gaming",
+    "casino",
+    "wingo",
+    "prediction",
+    "lottery",
+    "php",
+    "mysql"
+  ],
+  "author": "Wingo Casino",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.0"
+  },
+  "devDependencies": {}
+}
