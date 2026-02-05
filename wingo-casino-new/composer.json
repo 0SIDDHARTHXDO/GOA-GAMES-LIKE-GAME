@@ -1,0 +1,14 @@
+{
+  "name": "wingo-casino/wingo-platform",
+  "description": "Wingo Casino Gaming Platform",
+  "type": "project",
+  "require": {
+    "php": ">=7.4"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Wingo Casino Developer"
+    }
+  ]
+}
